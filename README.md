@@ -13,6 +13,8 @@ A lot more docs are coming soon so stay tuned.
 
 The project is written in [OpenSCAD](http://www.openscad.org/).
 
+[List of the non 3d printable parts and where to buy them.](parts-list.md)
+
 ### Installing
 
 1. Put all .scad files in the same directory.
