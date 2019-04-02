@@ -1,4 +1,4 @@
-# The Walrus Turbine Engine
+# The Walrus Turbine Procedural Engine
 
 WalrusTurbine is a procedural engine for making mostly 3D printable mobile hydroelectric power generators.  
 
