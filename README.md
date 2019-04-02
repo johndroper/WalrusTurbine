@@ -15,7 +15,8 @@ The project is written in [OpenSCAD](http://www.openscad.org/).
 
 ### Installing
 
-Open [assembly.scad](assembly.scad) in OpenSCAD to see the full assembled model. 
+1. Put all .scad files in the same directory.
+2. Open [assembly.scad](assembly.scad) in OpenSCAD to see the full assembled model. 
 
 ## Contributing
 
