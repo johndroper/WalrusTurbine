@@ -2,6 +2,8 @@
 
 WalrusTurbine is a procedural engine for making mostly 3D printable mobile hydroelectric power generators.  
 
+[Here is an image to give you a better idea.](images/explode 1.png)
+
 ## Getting Started
 
 ### Prerequisites
