@@ -10,11 +10,11 @@ The project is written in [OpenSCAD](http://www.openscad.org/).
 
 ### Installing
 
-Open Assembly.SCAD to see the full assembled model.
+Open Assembly.SCAD to see the full assembled model. 
 
 ## Contributing
 
-Branching encourage!
+Branching encouraged!
 
 ## Authors
 
