@@ -1,5 +1,7 @@
 include <constants.scad>;
 
+//Set explode to 1 for exploded version
+//Set explode to 0 for assembled version.
 explode=1;
 
 //todo:

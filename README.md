@@ -5,7 +5,7 @@ WalrusTurbine is a procedural engine for making mostly 3D printable mobile hydro
 
 ## Getting Started
 
-<img src="400/images/explode%201.png" title="Turbine" width="500">
+<img src="WT400/images/explode1.png" title="Turbine" width="500">
 
 ### Prerequisites
 
@@ -19,9 +19,11 @@ The project is written in [OpenSCAD](http://www.openscad.org/).
 
 ## Building
 
+<img src="WT400/images/explode2.png" title="Turbine" width="500">
+
 ### Building a WT400
-* [List of the non 3d printable parts and where to buy them.](400/parts-list.md)
-* [Super rudimentary instructions.](400/instructions.md)
+* [List of the non 3d printable parts and where to buy them.](WT400/parts-list.md)
+* [Super rudimentary instructions.](WT400/instructions.md)
 
 A lot more docs are coming soon so stay tuned.
 
@@ -31,7 +33,7 @@ Anyone who wants to contribute anything from openSCAD improvements to better ass
 
 ## Authors
 
-* **John Roper**
+* **John Roper** 
 * **Peter Brussard**
 
 ## License
