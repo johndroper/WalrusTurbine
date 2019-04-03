@@ -1,3 +1,8 @@
+# Walrus Turbine 400 Assembly Instructions
+
+## 3D Printed Parts
+<img src="images/runner%202.png" title="Runner" width="150"> <img src="images/wheel.png" title="Wheel" width="150"> <img src="images/motor_cover.png" title="Motor Cover" width="150"> <img src="images/motor_mount.png" title="Motor Mount" width="150"> <img src="images/nose_cone_bottom.png" title="Nose Cone Bottom" width="150"> <img src="images/nose_cone_top.png" title="Nose Cone Top" width="150"> <img src="images/shroud.png" title="Shroud" width="150"> <img src="images/bearing_case_cover.png" title="Bearing Case Cover" width="150"> <img src="images/end_cap.png" title="End Cap" width="150"> 
+## Steps
 1. Parts Prep
     1. Drill out bolt holes with 3/16 drill bit.
     2. Drill out motor mount holes in motor cover with 
