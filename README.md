@@ -24,7 +24,7 @@ The project is written in [OpenSCAD](http://www.openscad.org/).
 
 ## Contributing
 
-Branching encouraged!
+Anyone who wants to contribute anything from openSCAD improvements to better assembly instructions is more than welcome.
 
 ## Authors
 
