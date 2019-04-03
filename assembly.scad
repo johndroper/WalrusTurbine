@@ -1,6 +1,6 @@
 include <constants.scad>;
 
-explode=0;
+explode=1;
 
 //todo:
 
@@ -21,17 +21,17 @@ guard();
 translate([0,0,475 * explode])
 shroud();
 
-translate([0,0,230 + (240 * explode)])
+translate([0,0,230 + (125 * explode)])
 rotate([0,0,-5])
 noseCone(false);
 
-translate([0,0,230])
+translate([0,0,230 + (50 * explode)])
 rotate([180,0,0])
 runner();
 
 //Shaft
-*color("gray")
-translate([0,0, (explode * -160)-20])
+color("gray")
+translate([0,0, (explode * -375)-20])
 difference()
 {
     cylinder(
@@ -51,13 +51,13 @@ difference()
 end_cap_offset = -100;
 
 //End Cap
-translate([0,0,50 + -200 * explode ])   
+translate([0,0,50 + (-550 * explode) ])   
 rotate([0,0,30])
 end_cap();
 
 //rotary bearing
-*color("silver")
-translate([0,0,-82 + end_cap_offset])
+color("silver")
+translate([0,0,-82 + end_cap_offset + (-275 + explode)])
 difference()
 {
     cylinder(
@@ -72,11 +72,11 @@ difference()
         $fn=50);
 }
 
-*translate([0,0,-60 + end_cap_offset])
+translate([0,0,-60 + end_cap_offset + (-275 * explode)])
 bearing_case_cover();
 
 //thrust bearing
-*color("silver")
+color("silver")
 translate([0,0,-51 + motor_offset])
 difference()
 {
@@ -95,13 +95,13 @@ difference()
 //motor mount
 echo(motor_mount_od=motor_mount_od);
 
-*translate([0,0,-70 + motor_offset])
+translate([0,0,-70 + motor_offset + (explode * -150)])
 rotate([0,0,0])
 motorMount();
 
 //motor
-*color("silver")
-translate([0,0,-16 + motor_offset])
+color("silver")
+translate([0,0,-16 + motor_offset + (-50 * explode)])
 {
     cylinder(
         d=motor_diameter,
@@ -122,15 +122,15 @@ translate([0,0,-16 + motor_offset])
 }
 
 //motor cover
-*translate([0,0,44 + motor_offset])
+translate([0,0,44 + motor_offset])
 motorCover();
 
 //wheel
-translate([0,0,-260 * explode])
+translate([0,0,-550 * explode])
 rotate([0,0,0])
 wheel();
 
 // nose cone
-translate([0,0,-200 * explode])
+translate([0,0,-600 * explode])
 mirror([0,0,1])
 noseCone(true);
