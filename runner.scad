@@ -6,21 +6,6 @@ runner();
 
 module runner()
 {
-    translate([-25,22,-.01])
-    mirror([1,1,0])
-    scale(.35,,35,1)
-    #linear_extrude(height=3)
-    union()
-    {
-        text("Walrus Turbines LLC");
-        
-        translate([15,-20,0])
-        text("Copyright 2018");
-
-        translate([55,-20,0])
-        text("Copyright 2018");
-    }
-    
     difference()
     {
 
