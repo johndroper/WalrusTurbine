@@ -1,21 +1,29 @@
 # Walrus Turbine 400 Assembly Instructions
 
-## 3D Printed Parts
+## Parts
+
+### 3D Printed Parts
 <img src="images/runner%202.png" title="Runner" width="150"> <img src="images/wheel.png" title="Wheel" width="150"> <img src="images/motor_cover.png" title="Motor Cover" width="150"> <img src="images/motor_mount.png" title="Motor Mount" width="150"> <img src="images/nose_cone_bottom.png" title="Nose Cone Bottom" width="150"> <img src="images/nose_cone_top.png" title="Nose Cone Top" width="150"> <img src="images/shroud.png" title="Shroud" width="150"> <img src="images/bearing_case_cover.png" title="Bearing Case Cover" width="150"> <img src="images/end_cap.png" title="End Cap" width="150"> 
-## Steps
+
+### Non 3D Printed Parts
+
+[Non 3D Printed Parts List](parts-list.md)
+
+## Assembly Steps
 1. Parts Prep
     1. Drill out bolt holes with 3/16 drill bit.
     2. Drill out motor mount holes in motor cover with 
     3. Spray all parts (2 coats) with clear glaze.
-    4. Install heat-set inserts
-        1. Install 6 heat-set inserts in top of runner.
+    4. Let parts dry 24 hours.
+    5. Install [heat-set inserts](images\heat-set_inserts.png)
+        1. Install 6 heat-set inserts in top of runner. 
         2. Install 6 heat-set inserts in bottom of runner.
         3. Install 6 heat-set inserts in motor mount.
         4. Install 6 heat-set inserts in wheel.
 2. Center Shaft Assembly
-    1. Drill ¼” holes in shaft 12mm on center from each end.
+    1. Drill ¼” holes in shaft 12 mm on center from each end.
     2. Be sure to remove any burrs from hole.
-    3. Mount rotary bearing on shaft 79mm from end to top of bearing.
+    3. Mount rotary bearing on shaft 79 mm from end to top of bearing.
     4. Cover ends of shaft with tape.
 3. End Cap Assembly
     1. Mount grease seal in end cap and bearing cap.

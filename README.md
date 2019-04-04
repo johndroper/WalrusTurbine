@@ -1,5 +1,5 @@
 # The Walrus Turbine Procedural Engine
-<img src="400/images/turbine%203.png" title="Turbine" width="300">
+<img src="WT400/images/turbine%203.png" title="Turbine" width="300">
 
 WalrusTurbine is a procedural engine for making mostly 3D printable mobile hydroelectric power generators.  
 
@@ -15,11 +15,13 @@ The project is written in [OpenSCAD](http://www.openscad.org/).
 
 1. Put all .scad files in the same directory.
 2. Open [assembly.scad](assembly.scad) in OpenSCAD to see the full assembled model.
-3. Set the explode flag to 1 and have a look around. This may be just a wee bit taxing on your machine, so now that you've done that close that scad.
+3. Set the explode flag to 1, save, and have a look around. This may be just a wee bit taxing on your machine...
 
-## Building
+## Physical Assembly
 
 <img src="WT400/images/explode2.png" title="Turbine" width="500">
+
+The Walrus Turbine Procedural Engine was used create a denomstration model called the WT400. The WT400 is design to be printed on a printer with at least 400 mm build volume in all axis.
 
 ### Building a WT400
 * [List of the non 3d printable parts and where to buy them.](WT400/parts-list.md)
