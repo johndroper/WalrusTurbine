@@ -16,10 +16,10 @@
 |<img src="images\spring.png" title="Grease Seal" width="100">|[Compression Spring 1" Long, 0.845" OD](https://www.mcmaster.com/9657K319) | 1 |	
 |<img src="images\3_inch_orings.png" title="Grease Seal" width="100">|[Oil-Resistant Soft Buna-N O-Rings 3 1/4 OD](https://www.mcmaster.com/2418T189) | 2 |	
 |<img src="images\1_7_8_oring.png" title="Grease Seal" width="100">|[Oil-Resistant Soft Buna-N O-Rings 1 7/8 OD](https://www.mcmaster.com/2418T178) | 1 |	
-|<img src="images\grease_seal.png" title="Grease Seal" width="100">|[uxcell 12V DC 200 RPM Gear Motor](https://smile.amazon.com/gp/product/B01KTXRB90/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) | 1 |	
-|<img src="images\grease_seal.png" title="Grease Seal" width="100">|[Pololu 1083 UNIVERSAL ALUMINUM MOUNTING HUB](https://smile.amazon.com/gp/product/B00B887FX8/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) | 1 |	
+|<img src="images\motor.jpg" title="Grease Seal" width="100">|[uxcell 12V DC 200 RPM Gear Motor](https://smile.amazon.com/gp/product/B01KTXRB90/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) | 1 |	
+|<img src="images\hub.jpg" title="Grease Seal" width="100">|[Pololu 1083 UNIVERSAL ALUMINUM MOUNTING HUB](https://smile.amazon.com/gp/product/B00B887FX8/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) | 1 |	
 |<img src="images\grease_seal.png" title="Grease Seal" width="100">|Routing Eyebolt with Nut | 2  
-|<img src="images\grease_seal.png" title="Grease Seal" width="100">|[AmazonBasics 16-Gauge Speaker Wire - 100 Feet](https://smile.amazon.com/gp/product/B006LW0W5Y/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) | 1 |	
+|<img src="images\wire.jpg" title="Grease Seal" width="100">|[AmazonBasics 16-Gauge Speaker Wire - 100 Feet](https://smile.amazon.com/gp/product/B006LW0W5Y/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) | 1 |	
 |<img src="images\grease_seal.png" title="Grease Seal" width="100">|PLA Filament 1KG | 4 |	
-|<img src="images\grease_seal.png" title="Grease Seal" width="100">|[CRC SL3121 Marine Boat Trailer and 4 x 4 Wheel Bearing Grease - 14 wt. oz.](https://smile.amazon.com/gp/product/B000CPJMY8/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) | 1 |	
-|<img src="images\grease_seal.png" title="Grease Seal" width="100">|[Krylon I00500A00 12-Ounce Triple Thick Clear Glaze Aerosol Spray](https://smile.amazon.com/gp/product/B001144TJC/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) | 1 |	
+|<img src="images\grease.jpg" title="Grease Seal" width="100">|[CRC SL3121 Marine Boat Trailer and 4 x 4 Wheel Bearing Grease - 14 wt. oz.](https://smile.amazon.com/gp/product/B000CPJMY8/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) | 1 |	
+|<img src="images\spray.jpg" title="Grease Seal" width="100">|[Krylon I00500A00 12-Ounce Triple Thick Clear Glaze Aerosol Spray](https://smile.amazon.com/gp/product/B001144TJC/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) | 1 |	
