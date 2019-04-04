@@ -2,7 +2,7 @@ include <constants.scad>;
 
 //Set explode to 1 for exploded version
 //Set explode to 0 for assembled version.
-explode=1;
+explode=0;
 
 //todo:
 
@@ -59,7 +59,7 @@ end_cap();
 
 //rotary bearing
 color("silver")
-translate([0,0,-82 + end_cap_offset + (-275 + explode)])
+translate([0,0,65 + (-525 * explode)])
 difference()
 {
     cylinder(
@@ -74,12 +74,13 @@ difference()
         $fn=50);
 }
 
-translate([0,0,-60 + end_cap_offset + (-275 * explode)])
+//bearing_case_cover
+translate([0,0,70 + (-495 * explode)])
 bearing_case_cover();
 
 //thrust bearing
 color("silver")
-translate([0,0,-51 + motor_offset])
+translate([0,0,100 + motor_offset + (-325 * explode)])
 difference()
 {
     cylinder(
