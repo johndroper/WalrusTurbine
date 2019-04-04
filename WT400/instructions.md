@@ -11,18 +11,18 @@
 
 ## Assembly Steps
 1. Parts Prep
-    1. Drill out carriage bolt holes in [wheel](images\wheel.png) with 3/16 drill bit.
-    2. Drill out motor mount holes in [motor cover](images\motor_cover.png) with
+    1. Drill out all 6 [carriage bolt holes](images/carriage_bolt_holes.png) in [wheel](images/wheel.png) with 3/16" drill bit.
+    2. Drill out [motor mount holes](images/drill_motor_mount_holes.png) in [motor cover](images/motor_cover.png) with
     3. Cover heat-set insert holes with masking tape.
-    4. Spray all parts (2 coats) with [clear glaze](images\spray.jpg).
+    4. Spray all parts (2 coats) with [clear glaze](images/spray.jpg).
     5. Let parts dry 24 hours.
-    6. Installing [heat-set inserts](images\heat-set_inserts.png)
-        1. Install 6 heat-set inserts in [top of runner](images\runner_top.png). 
+    6. Installing [heat-set inserts](images/heat-set_inserts.png)
+        1. Install 6 heat-set inserts in [top of runner](images/runner_top.png). 
         2. Install 6 heat-set inserts in bottom of runner.
-        3. Install 6 heat-set inserts in [motor mount](images\motor_mount.png).
+        3. Install 6 heat-set inserts in [motor mount](images/motor_mount.png).
         4. Install 6 heat-set inserts in wheel.
 2. Center Shaft Assembly
-    1. Drill ¼” holes in [aluminum round tube](images\aluminum_round_tube.png) 12 mm on center from each end.
+    1. Drill ¼” holes in [aluminum round tube](images/aluminum_round_tube.png) 12 mm on center from each end.
     2. Be sure to remove any burrs from hole.
     3. Mount rotary bearing on shaft 79 mm from end to top of bearing.
     4. Cover ends of shaft with tape.
