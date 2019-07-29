@@ -28,7 +28,7 @@
        1. Let parts dry 24 hours.
        1. Turn parts over, spray other side of all 3D printed parts (2 coats) with [clear glaze](parts-list.md#spray).
        1. Let parts dry 24 hours.
-    1. Installing [heat-set inserts](parts-list.md#heat-set_inserts)
+    1. Installing [heat-set inserts](parts-list.md#heatset_inserts)
         1. Install 6 heat-set inserts in [top of runner](images/runner_top.png). 
         1. Install 6 heat-set inserts in [bottom of runner](images/bottom_of_runner.png).
         1. Install 6 heat-set inserts in [motor mount](3d_printed_parts.md#motor_mount).
@@ -43,7 +43,7 @@
     1. Apply [grease](parts-list.md#grease) to inside surfaces of both parts including o-ring grooves.
     1. Be sure to fill empty space between both seals and the bearing with grease.  
     1. Insert [rotary ball bearing](parts-list.md#ball_bearing) and [shaft](parts-list.md#aluminum_round_tube) assembly into [end cap](3d_printed_parts.md#end_cap). 
-    1. Insert [1 7/8" OD o-ring]parts-list.md#1_7_8_oring) into groove on [end cap](3d_printed_parts.md#end_cap).
+    1. Insert [1 7/8" o-ring](parts-list.md#1_7_8_oring) into groove on [end cap](3d_printed_parts.md#end_cap).
     1. Mount [bearing case cover](3d_printed_parts.md#bearing_case_cover) onto [shaft](parts-list.md#aluminum_round_tube).
     1. Secure [bearing case cover](3d_printed_parts.md#bearing_case_cover) to [end cap](3d_printed_parts.md#end_cap) with 6 [8-32 5/8" hex screw](parts-list.md#8-32_hex_screw).
 1. End Cap Install
@@ -54,7 +54,7 @@
     1. Slide [motor mount](3d_printed_parts.md#motor_mount) onto [shaft](parts-list.md#aluminum_round_tube), compressing [spring](parts-list.md#spring) until hole in [shaft](parts-list.md#aluminum_round_tube) and [motor mount](3d_printed_parts.md#motor_mount) align.  Then insert [¼-20 2” hex-head bolt](parts-list.md#hex_head_screw_2_inch) through hole in [motor mount](3d_printed_parts.md#motor_mount) and [shaft](parts-list.md#aluminum_round_tube).  Secure with [¼” hex nut](parts-list.md#hex_nut).  
 1. Mounting Motor
     1. Install [motor cover](3d_printed_parts.md#motor_cover) on [motor](3d_printed_parts.md#motor) using 6 [M3 x 8mm hex screws](parts-list.md#M3_8mm_hex_screw).
-    1. Mount [6mm motor hub](parts-list.md#hub) onto motor shaft with two grub screws. Dab each grub screw hole with [loctite](parts-list.md#loctite) before inserting.
+    1. Mount [motor mounting hub](parts-list.md#hub) onto motor shaft with two grub screws. Dab each grub screw hole with [loctite](parts-list.md#loctite) before inserting.
     1. Slide [speaker wire](parts-list.md#wire) down inside of [shaft](parts-list.md#aluminum_round_tube) starting at [end cap](3d_printed_parts.md#end_cap) and exiting out [motor mount](3d_printed_parts.md#motor_mount).
     1. Solder [speaker wire](parts-list.md#wire) to [motor](parts-list.md#motor) leads.
     1. Insert [motor](parts-list.md#motor) into [motor mount](3d_printed_parts.md#motor_mount) and secure [motor cover](3d_printed_parts.md#motor_cover) to the [motor mount](3d_printed_parts.md#motor_mount) with 6 [8-32 ½” hex screws](parts-list.md#screw_8_32_1_2).
@@ -62,11 +62,12 @@
     1. Appy [grease](parts-list.md#grease) to [runner](3d_printed_parts.md#runner) top o-ring groove.
     1. Place [motor mount](3d_printed_parts.md#motor_mount) / [end cap](3d_printed_parts.md#end_cap) assembly inside [runner](3d_printed_parts.md#runner).
     3. Align motor hub with holes in bottom of [runner](3d_printed_parts.md#runner) and secure with 6 [4-40 ¾” hex screws](parts-list.md#4-40_hex_screw).
-    1. Secure end cap to [runner](3d_printed_parts.md#runner) with 6 [8-32 ½” hex screws](parts-list.md#screw_8_32_1_2).
+    1. Secure [end cap](3d_printed_parts.md#end_cap) to [runner](3d_printed_parts.md#runner) with 6 [8-32 ½” hex screws](parts-list.md#screw_8_32_1_2).
     1. Wipe up excess grease.
 1. Bottom Cone Assembly
-    1. Appy [grease](parts-list.md#grease) to [runner](3d_printed_parts.md#runner) bottom o-ring groove and install [3 1/4" OD o-ring](parts-list.md#3_inch_orings).
-    1. Appy [grease](parts-list.md#grease) to bottom cone o-ring groove and secure to [runner](3d_printed_parts.md#runner) with 6 [8-32 ½” hex screws](parts-list.md#8-32_hex_screw).
+    1. Appy [grease](parts-list.md#grease) to [bottom nose cone o-ring groove]() and [runner bottom o-ring groove](images/runner_bottom_oring_groove.png).
+    1. Install [3 1/4" o-ring](parts-list.md#3_inch_orings) in [runner bottom o-ring groove](images/).
+    1.  Secure [bottom nose cone](3d_printed_parts.md#bottom_nose_cone) to [runner](3d_printed_parts.md#runner) with 6 [8-32 ½” hex screws](parts-list.md#8-32_hex_screw).
     1. Wipe up excess grease. 
 1. Wheel Assembly
     1. Feed [speaker wire](parts-list.md#wire) through center of wheel.
